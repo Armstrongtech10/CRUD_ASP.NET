@@ -3,4 +3,4 @@
 
  Projeto completo no controle de pessoas e endereços.
 
- back-and: MSSQL
+ back-and: SQL
